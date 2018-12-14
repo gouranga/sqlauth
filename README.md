@@ -1,6 +1,6 @@
 # sqlauth for [3proxy](https://github.com/z3APA3A/3proxy/)
 
-Untested alfa version, use at your own risk.
+Untested alfa version, use at your own risk. 
 
 ## Requirements
 - *nix, gcc with c99 support
@@ -81,10 +81,6 @@ auth cache strong sqlauth
 If you don't change passwords frequently you can setup higher cache time.
 
 4. Run 3proxy and enjoy!
-
-## Security notice
-
-Passwords must be stored plain-text, so use with precaution. Also remember that most of proxy protocols send usernames/passwords unencrypted.
 
 ## License
 
